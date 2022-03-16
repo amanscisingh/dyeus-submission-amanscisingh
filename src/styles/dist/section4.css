@@ -1,0 +1,14 @@
+.section4 {
+  height: 841px;
+  background: linear-gradient(165.41deg, #d99ec9 0%, rgba(246,240,196,0) 100%);
+  text-align: left;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+.section4__element {
+  color: #1b1b50;
+  width: 80%;
+}

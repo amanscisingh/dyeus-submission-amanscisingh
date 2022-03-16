@@ -18,14 +18,14 @@ const Section3 = () => {
             </h1>
 
             
-            <p className="p section3__element">
+            <p className="p section3__element" style={{color:"#000"}}>
             Gentle formulations thoughtfully engineered by specialist researchers and doctors to simplify your self-care and get results fast. And, we always list our ingredients - so what you see is what you get.   
             </p>
         </div>
 
         <div className="section3b">
             <Button text="Upgrade your self-care" />
-            <p className="p section3__element large" style={ { textAlign:"center" } }>
+            <p className="p section3__element large" style={ { textAlign:"center", color:"#000" } }>
                 #NoNasties, we promise!
             </p>
         

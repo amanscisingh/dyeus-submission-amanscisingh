@@ -1,0 +1,14 @@
+.section8 {
+  position: relative;
+  background: linear-gradient(180deg, #fff6fb 0%, #e7f6fc 100%);
+  text-align: left;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+.section8__element {
+  color: #000;
+  width: 80%;
+}

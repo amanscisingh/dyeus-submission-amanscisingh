@@ -1,6 +1,6 @@
-.section5 {
+.section6 {
   position: relative;
-  background: linear-gradient(176.88deg, #f3b8bc 2.58%, #ffdad4 93.07%);
+  background: linear-gradient(270deg, #dadae4 0.25%, #eeeef0 24.33%, #f8f8f8 52.08%, #fefefe 100%);
   text-align: left;
   width: 100%;
   display: flex;
@@ -8,11 +8,11 @@
   align-items: center;
   justify-content: start;
 }
-.section5__element {
+.section6__element {
   color: #000;
   width: 80%;
 }
-.section5__image {
+.section6__image {
   width: 100%;
   margin-top: 48px;
 }

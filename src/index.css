@@ -1,8 +1,8 @@
 body {
   margin: 0;
+  font-family: 'Cairo', sans-serif;
   font-family: 'Poppins', sans-serif;
   font-family: 'Quicksand', sans-serif;
-  font-family: 'Titillium Web', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

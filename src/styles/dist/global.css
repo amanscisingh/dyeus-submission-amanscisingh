@@ -1,6 +1,7 @@
 .h1 {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-size: 32px;
+  line-height: 40px;
 }
 .h2 {
   font-family: 'Quicksand', sans-serif;

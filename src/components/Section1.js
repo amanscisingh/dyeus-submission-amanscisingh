@@ -10,7 +10,7 @@ const Section1 = () => {
     <div className="section1">
         <h1 className="h1 section1__element">About Diana</h1>
         <br />
-        <h2 className="h2 section1__element">A platform that looks out for you</h2>
+        <h2 className="h2 section1__element bold">A platform that looks out for you</h2>
         <br />
         <p className="p section1__element">
         Diana empowers you to understand how your body works so you can look and feel your best. 

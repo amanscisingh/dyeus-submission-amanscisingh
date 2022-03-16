@@ -1,6 +1,6 @@
 .section4 {
-  height: 841px;
-  background: linear-gradient(165.41deg, #d99ec9 0%, rgba(246,240,196,0) 100%);
+  height: 500px;
+  background: linear-gradient(180deg, #fff6fb 0%, #fff 100%);
   text-align: left;
   width: 100%;
   display: flex;
@@ -11,4 +11,17 @@
 .section4__element {
   color: #1b1b50;
   width: 80%;
+}
+.section4__images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  align-content: center;
+  justify-content: center;
+}
+.section4__images__img {
+  margin: 20px;
+  width: 190px;
+  height: 190px;
 }

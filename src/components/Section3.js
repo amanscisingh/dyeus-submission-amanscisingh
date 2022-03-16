@@ -24,7 +24,7 @@ const Section3 = () => {
         </div>
 
         <div className="section3b">
-            <Button text="Upgrade your self-care" />
+            <Button text="Upgrade your self-care" background="linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%)" />
             <p className="p section3__element large" style={ { textAlign:"center", color:"#000" } }>
                 #NoNasties, we promise!
             </p>

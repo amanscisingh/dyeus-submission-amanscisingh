@@ -5,7 +5,7 @@ import '../styles/dist/global.css'
 const Button = ({text, background}) => {
 
   return (
-    <div className="button p" style={{ background: background }}>
+    <div className="button p" style={{ background: background}}>
         {text}
     </div>
   )

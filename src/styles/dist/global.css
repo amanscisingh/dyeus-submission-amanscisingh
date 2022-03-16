@@ -15,6 +15,9 @@
 .black {
   color: #000;
 }
+.white {
+  color: #fff;
+}
 .li {
   margin-left: 10px;
   margin-top: 10px;

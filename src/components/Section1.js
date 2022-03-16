@@ -56,6 +56,14 @@ const Section1 = () => {
         <p className="p section1__element">
         Consider us your nerdy ally who spends their time perfecting products that work because they want you to feel your best everyday.
         </p>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+  
+
         
     </div>
   )

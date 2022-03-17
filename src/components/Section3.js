@@ -9,7 +9,7 @@ const Section3 = () => {
     <> 
         <div className="section3a">
             <br />
-            <h2 className="h2 section3__element">
+            <h2 className="h2 section3__element bold">
                 Liberate Your Everyday wellness
             </h2>
 

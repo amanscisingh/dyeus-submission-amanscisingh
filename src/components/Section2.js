@@ -8,16 +8,14 @@ const Section2 = () => {
   return (
     <div className="section2">
         <br />
-        <h2 className="h2 section2__element boldest">
+        <h2 className="h2 section2__element bold">
             What makes us different?
         </h2>
 
-        <br />
         <h1 className="h1 section2__element">
             Reimagining and rewiring self-care
         </h1>
 
-        <br />
         <p className="p section2__element">
         You care about conscious consumption, and so do we. 
         </p>

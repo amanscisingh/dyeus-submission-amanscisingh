@@ -1,17 +1,19 @@
 .h1 {
   font-family: 'Cairo', sans-serif;
-  font-size: 32px;
-  line-height: 40px;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 300;
 }
 .h2 {
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 700;
-  font-size: 22px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
 }
 .p {
-  font-family: 'Poppins', sans-serif;
-  font-size: 14px;
-  font-weight: 300;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 35px;
 }
 .bold {
   font-weight: 700;
@@ -35,4 +37,7 @@
 .small {
   font-size: small;
   margin-bottom: 0px;
+}
+.medium {
+  font-size: medium;
 }

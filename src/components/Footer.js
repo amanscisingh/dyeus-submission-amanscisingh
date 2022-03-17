@@ -18,16 +18,16 @@ const Footer = () => {
 
         <div className="footer__element footer__routes">
             <div className="footer__routes__element">
-                <p className="p footer__element">Products <img src={rightArrow} /> </p> 
+                <p className="p footer__element medium">Products <img src={rightArrow} /> </p> 
             </div>
             <div className="footer__routes__element">
-                <p className="p footer__element">Our Science <img src={rightArrow} /> </p> 
+                <p className="p footer__element medium">Our Science <img src={rightArrow} /> </p> 
             </div>
             <div className="footer__routes__element">
-                <p className="p footer__element">Vision & Mission <img src={rightArrow} /> </p> 
+                <p className="p footer__element medium">Vision & Mission <img src={rightArrow} /> </p> 
             </div>
             <div className="footer__routes__element">
-                <p className="p footer__element">About Us <img src={rightArrow} /> </p> 
+                <p className="p footer__element medium">About Us <img src={rightArrow} /> </p> 
             </div>
         </div>
 

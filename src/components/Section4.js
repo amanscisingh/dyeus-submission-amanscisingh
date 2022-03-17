@@ -19,7 +19,7 @@ const Section4 = () => {
             All days and all moods are not made equal. But we can only improve what we measure. Track your mood and vitals (including skin and hair health) so you can take better care of yourself every day. 
         </p>
 
-        <Button text="Track your mood on the app" background="linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%)" />
+        <Button text="Track your mood on the app" background="linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%)" filter="drop-shadow(0px 2px 16px rgba(71, 222, 255, 0.33))" />
 
         <br />
 

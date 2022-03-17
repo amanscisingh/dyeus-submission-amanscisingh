@@ -9,9 +9,9 @@ const Section1 = () => {
   return (
     <div className="section1">
         <h1 className="h1 section1__element">About Diana</h1>
-        <br />
+        
         <h2 className="h2 section1__element">A platform that looks out for you</h2>
-        <br />
+        
         <p className="p section1__element black">
         Diana empowers you to understand how your body works so you can look and feel your best. 
         </p>
@@ -19,9 +19,9 @@ const Section1 = () => {
         <br />
 
         <h2 className="section1__element h2 bold"> Our Philosophy </h2>
-        <br />
+        
         <h1 className="h1 section1__element"> Sustainable wellness is a big-picture, inside out approach </h1>
-        <br />
+        
         <p className="p section1__element bold">
         Diana is on a mission to create thoughtful, science-backed solutions for women who want to make informed decisions about their health and wellness. 
         </p>

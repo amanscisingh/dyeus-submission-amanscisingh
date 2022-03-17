@@ -18,10 +18,10 @@
   flex-wrap: wrap;
   width: 100%;
   align-content: center;
-  justify-content: center;
+  justify-content: space-around;
+  row-gap: 10px;
 }
 .section4__images__img {
-  margin: 10px;
-  width: 160px;
-  height: 160px;
+  margin: 7px;
+  width: 170px;
 }
